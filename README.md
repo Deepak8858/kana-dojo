@@ -157,3 +157,6 @@ This project is licensed under the AGPL 3.0 License — see [LICENSE.md](./LICEN
 [⬆ Back to top](#top)
 
 </div>
+
+
+<!-- Automated minor fix for issue #8334 -->
